@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Besufkad Yalew
-- 🌱 I’m currently learning Java and Python 
+- 🌱 I’m currently learning Java, Python and web
 - 💞️ I’m looking to collaborate on learning and sharing matherials 
 - 📫 How to reach me https://t.me/Bae179 telegram
 - ⚡ Fun fact: ...
