@@ -61,13 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=besu179&theme=radical&margin-w=10&row=1" alt="Trophies" />
 </p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/besu179/besu179/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
 
 ---
 
