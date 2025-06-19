@@ -1,67 +1,84 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I’m Besu (besu179)</h1>
+<h1 align="center">👋 Hey, I'm Besu (besu179)</h1>
 <p align="center">
-  🎬 Video Editor • 💻 Software Engineer Student • 🎥 Filmmaker in Addis Ababa  
-  Fast learner | Open to collaborations & learning opportunities
+  🎬 Video Editor • 💻 Software Engineering Student • 🎥 Filmmaker in Ethiopia  
+  Fast learner | Loves solving problems & telling stories through tech and film
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Building+React+Django+Apps+|+Editing+Videos+|+Always+Learning" alt="Typing animation"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=radical&count_private=true" alt="Besu's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=besu179&theme=radical" alt="Streak stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Fullstack+Developer+%7C+Fast+Learner+%7C+Video+Editor;React+%2B+Django+%2F+Rails+%2F+Laravel+%7C+PHP%2C+Ruby%2C+Python;Let%27s+build+something+awesome+together!" alt="Typing animation"/>
 </p>
 
 ---
 
 ## 🛠 Languages & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,sql,php" alt="Languages" style="margin-right:10px"/>
-  <img src="https://skillicons.dev/icons?i=django,rails,react,laravel" alt="Frameworks"/>
-</p>
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|-------|-------------|------|
-| **Movie App (React + TMDB API)** | Browse & search films, view trailers and details via an external API. Fully responsive UI. | React, Axios, TMDB |
-| **Portfolio #1** | Personal portfolio site showcasing my skills & projects with clean design & animations. | HTML, CSS, JS |
-| **Portfolio #2** | A second portfolio iteration with refined layout, responsive views, and interactive sections. | HTML, CSS, JS |
-
-### 🔗 Project Links
-- 🎞️ **Movie App**: https://movie-app-by-react-six.vercel.app/ – React‑powered film database fetching dynamic data and showing trailers.  
-- 💼 **Portfolio One**: https://class-ex-23qy.vercel.app/ – Minimalist portfolio showcasing skills & contact info.  
-- 🌐 **Portfolio Two**: https://portfollio-two-nu.vercel.app/ – Enhanced interactive portfolio with smooth scrolling effects.
+|--------|-------------|------|
+| 🎬 [**Movie App**](https://movie-app-by-react-six.vercel.app/) | A responsive React app that fetches real-time data from the TMDB API. Shows film details, posters, trailers, and ratings. | React, Axios, TMDB API |
+| 💼 [**Portfolio #1**](https://class-ex-23qy.vercel.app/) | A clean, responsive personal portfolio showcasing skills and projects. | HTML, CSS, JS |
+| 🌐 [**Portfolio #2**](https://portfollio-two-nu.vercel.app/) | Another variation of my personal portfolio with polished layout and smooth scroll effects. | HTML, CSS, JS |
 
 ---
 
-## 🌟 Highlights
-
-- ✅ Fast learner — I pick up new frameworks and patterns quickly (e.g. full‑stack React + Django).
-- 💡 Experience building real-world full‑stack systems (React, PHP, Laravel, Ruby on Rails).
-- 🎞️ Hands-on with video editing for TV programs and short films.
-- 🌱 Continuously expanding skillset in Python, Java, and SQL.
-
----
-
-## 🧭 Let's Connect!
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://t.me/besu179"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:besu179@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/besufkad-yalew-0673402b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=besu179&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besu179&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">⚡ “Code clean. Edit sharp. Learn daily.”</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=besu179&theme=radical&margin-w=10&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/besu179/besu179/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:besuwinner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/besu179"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/besufkad-yalew-0673402b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">💬 “Code clean. Edit sharp. Learn daily.”</p>
