@@ -2,7 +2,9 @@
 
 <h1 align="center">👋 Hey, I'm Besufkad Yalew</h1>
 <p align="center">
-  🎬 Video Editor • 💻 Software Engineering Student • 🎥 Filmmaker in Ethiopia  
+  🎬 Video Editor • 
+  💻 Software Engineering Student • 
+  🎥 Filmmaker in Ethiopia  
   Fast learner | Loves solving problems & telling stories through tech and film
 </p>
 
