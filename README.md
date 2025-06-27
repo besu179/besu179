@@ -53,18 +53,18 @@
 ### 🎬 Movie App
 
 <p align="center">
-  <a href="https://movie-app-by-react-six.vercel.app/">
-    <img src="https://raw.githubusercontent.com/besu179/besu179/main/assets/movie-app-preview.png" alt="Movie App Preview" width="800" />
-  </a>
+  <img src="https://raw.githubusercontent.com/besu179/besu179/main/assets/movie-app-preview.png" alt="Movie App Preview" width="800" />
 </p>
 
 A responsive React application that integrates with the TMDB API to provide real-time movie information. Features include:
-- Real-time movie search and filtering
-- Detailed movie information with posters and trailers
-- User ratings and reviews
-- Responsive design for all devices
+- 🎯 Real-time movie search and filtering
+- 🎬 Detailed movie information with posters and trailers
+- ⭐ User ratings and reviews
+- 📱 Responsive design for all devices
+- 🎨 Modern UI with Material-UI components
+- 🚀 Optimized performance with React best practices
 
-Tech Stack: React, Axios, TMDB API, Material-UI
+Tech Stack: React, Axios, TMDB API, Material-UI, React Router, Redux
 
 ### 💼 Portfolio #1
 
@@ -75,12 +75,14 @@ Tech Stack: React, Axios, TMDB API, Material-UI
 </p>
 
 A clean, modern portfolio website showcasing my skills and projects. Features include:
-- Smooth animations and transitions
-- Responsive design
-- Interactive project showcase
-- Contact form integration
+- 🔄 Smooth animations and transitions
+- 📱 Responsive design for all devices
+- 🎨 Interactive project showcase with hover effects
+- 📧 Contact form integration with email API
+- 🚀 Optimized loading with lazy loading
+- 🔍 SEO optimized with meta tags
 
-Tech Stack: HTML5, CSS3, JavaScript, Bootstrap
+Tech Stack: HTML5, CSS3, JavaScript, Bootstrap, jQuery, Font Awesome
 
 ### 🌐 Portfolio #2
 
@@ -91,12 +93,14 @@ Tech Stack: HTML5, CSS3, JavaScript, Bootstrap
 </p>
 
 An enhanced portfolio website with improved UI/UX. Features include:
-- Modern, polished design
-- Smooth scroll effects
-- Interactive elements
-- Optimized performance
+- 🎨 Modern, polished design with glassmorphism effects
+- 🔄 Smooth scroll effects with GSAP animations
+- 📱 Interactive elements with hover states
+- 🚀 Optimized performance with code splitting
+- 🔍 SEO optimized with dynamic meta tags
+- 📱 Mobile-first responsive design
 
-Tech Stack: HTML5, CSS3, JavaScript, GSAP
+Tech Stack: HTML5, CSS3, JavaScript, GSAP, Intersection Observer, Webpack
 
 ---
 
@@ -143,24 +147,27 @@ Tech Stack: HTML5, CSS3, JavaScript, GSAP
 ## 🎯 Skills
 
 ### Core Skills
-- Full Stack Development
-- Frontend Development
-- Backend Development
-- Database Management
-- Video Editing
-- UI/UX Design
+- 🚀 Full Stack Development
+- 🎨 Frontend Development
+- 📱 Backend Development
+- 📊 Database Management
+- 🎬 Video Editing
+- 🎨 UI/UX Design
+- 📱 Responsive Design
+- 🚀 Performance Optimization
+- 🔍 SEO Optimization
+- 📱 Mobile Development
 
 ### Key Strengths
-- Problem Solving
-- Fast Learning
-- Attention to Detail
-- Team Collaboration
-- Time Management
+- 🤔 Problem Solving
+- 🚀 Fast Learning
+- 🔍 Attention to Detail
+- 🤝 Team Collaboration
+- ⏱️ Time Management
+- 📈 Continuous Improvement
+- 🎯 Goal-Oriented
+- 📈 Growth Mindset
 
 ---
 
 <p align="center">💬 "Code clean. Edit sharp. Learn daily."</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=besu179" alt="Visitors" />
-</p>
