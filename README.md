@@ -53,7 +53,6 @@
 ### 🎬 Movie App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/besu179/besu179/main/assets/movie-app-preview.png" alt="Movie App Preview" width="800" />
 </p>
 
 A responsive React application that integrates with the TMDB API to provide real-time movie information. Features include:
@@ -70,7 +69,6 @@ Tech Stack: React, Axios, TMDB API, Material-UI, React Router, Redux
 
 <p align="center">
   <a href="https://class-ex-23qy.vercel.app/">
-    <img src="https://raw.githubusercontent.com/besu179/besu179/main/assets/portfolio-preview.png" alt="Portfolio Preview" width="800" />
   </a>
 </p>
 
@@ -88,7 +86,6 @@ Tech Stack: HTML5, CSS3, JavaScript, Bootstrap, jQuery, Font Awesome
 
 <p align="center">
   <a href="https://portfollio-two-nu.vercel.app/">
-    <img src="https://raw.githubusercontent.com/besu179/besu179/main/assets/portfolio2-preview.png" alt="Portfolio 2 Preview" width="800" />
   </a>
 </p>
 
