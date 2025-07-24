@@ -48,59 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie App
-
-<p align="center">
-</p>
-
-A responsive React application that integrates with the TMDB API to provide real-time movie information. Features include:
-- 🎯 Real-time movie search and filtering
-- 🎬 Detailed movie information with posters and trailers
-- ⭐ User ratings and reviews
-- 📱 Responsive design for all devices
-- 🎨 Modern UI with Material-UI components
-- 🚀 Optimized performance with React best practices
-
-Tech Stack: React, Axios, TMDB API, Material-UI, React Router, Redux
-
-### 💼 Portfolio #1
-
-<p align="center">
-  <a href="https://class-ex-23qy.vercel.app/">
-  </a>
-</p>
-
-A clean, modern portfolio website showcasing my skills and projects. Features include:
-- 🔄 Smooth animations and transitions
-- 📱 Responsive design for all devices
-- 🎨 Interactive project showcase with hover effects
-- 📧 Contact form integration with email API
-- 🚀 Optimized loading with lazy loading
-- 🔍 SEO optimized with meta tags
-
-Tech Stack: HTML5, CSS3, JavaScript, Bootstrap, jQuery, Font Awesome
-
-### 🌐 Portfolio #2
-
-<p align="center">
-  <a href="https://portfollio-two-nu.vercel.app/">
-  </a>
-</p>
-
-An enhanced portfolio website with improved UI/UX. Features include:
-- 🎨 Modern, polished design with glassmorphism effects
-- 🔄 Smooth scroll effects with GSAP animations
-- 📱 Interactive elements with hover states
-- 🚀 Optimized performance with code splitting
-- 🔍 SEO optimized with dynamic meta tags
-- 📱 Mobile-first responsive design
-
-Tech Stack: HTML5, CSS3, JavaScript, GSAP, Intersection Observer, Webpack
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -145,11 +92,7 @@ Tech Stack: HTML5, CSS3, JavaScript, GSAP, Intersection Observer, Webpack
 
 ### Core Skills
 - 🚀 Full Stack Development
-- 🎨 Frontend Development
-- 📱 Backend Development
 - 📊 Database Management
-- 🎬 Video Editing
-- 🎨 UI/UX Design
 - 📱 Responsive Design
 - 🚀 Performance Optimization
 - 🔍 SEO Optimization
