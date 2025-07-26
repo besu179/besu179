@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Fullstack+Developer;React+%2B+Django+%2F+Rails+%2F+Laravel+%7C+PHP%2C+Ruby%2C+Python; alt="Typing SVG" />
-</p>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Fullstack+Developer;React+%2B+Django+%2F+Rails+%2F+Laravel;PHP%2C+Ruby%2C+Python" 
+  alt="Typing SVG" /></p>
 
 ---
 
