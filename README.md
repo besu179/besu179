@@ -1,8 +1,5 @@
-<!-- GitHub Profile README -->
 <div align="center">
   
-  <!-- Banner Header -->
-  ![GitHub Header](https://github.com/besu179/besu179/assets/placeholder/banner.png)
   
   <h1 align="center">👋 Hey, I'm Besufkad Yalew</h1>
   <h3 align="center">💻 Software Engineering Student • 🎬 Creative Video Editor</h3>
@@ -79,21 +76,6 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=besu179&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=8" alt="Trophies" />
   </p>
-</div>
-
----
-
-## 🎬 Featured Projects
-
-<div align="center">
-  
-  <!-- Project Cards -->
-  <a href="https://github.com/besu179/project1">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=besu179&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/besu179/project2">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=besu179&repo=project2&theme=radical" />
-  </a>
 </div>
 
 ---
