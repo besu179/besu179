@@ -88,26 +88,5 @@
 
 ---
 
-## 🎯 Skills
-
-### Core Skills
-- 🚀 Full Stack Development
-- 📊 Database Management
-- 📱 Responsive Design
-- 🚀 Performance Optimization
-- 🔍 SEO Optimization
-- 📱 Mobile Development
-
-### Key Strengths
-- 🤔 Problem Solving
-- 🚀 Fast Learning
-- 🔍 Attention to Detail
-- 🤝 Team Collaboration
-- ⏱️ Time Management
-- 📈 Continuous Improvement
-- 🎯 Goal-Oriented
-- 📈 Growth Mindset
-
----
 
 <p align="center">💬 "Code clean. Edit sharp. Learn daily."</p>
