@@ -2,14 +2,13 @@
 
 <h1 align="center">👋 Hey, I'm Besufkad Yalew</h1>
 <p align="center">
-  🎬 Video Editor • 
   💻 Software Engineering Student • 
-  🎥 Filmmaker in Ethiopia  
+  🎬 Video Editor • 
   Fast learner | Loves solving problems & telling stories through tech and film
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Fullstack+Developer+%7C+Fast+Learner+%7C+Video+Editor;React+%2B+Django+%2F+Rails+%2F+Laravel+%7C+PHP%2C+Ruby%2C+Python;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Fullstack+Developer;React+%2B+Django+%2F+Rails+%2F+Laravel+%7C+PHP%2C+Ruby%2C+Python; alt="Typing SVG" />
 </p>
 
 ---
