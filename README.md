@@ -1,58 +1,59 @@
 <div align="center">
   
+  <!-- Animated Wave -->
+  <h1 align="center">👋 Hey, I'm <span style="color:#7e3ace;">Besufkad Yalew</span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
   
-  <h1 align="center">👋 Hey, I'm Besufkad Yalew</h1>
   <h3 align="center">💻 Software Engineering Student • 🎬 Creative Video Editor</h3>
   
   <!-- Typing Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7E3ACE&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Specialist;Django%2FRails%2FLaravel;Python+%7C+Ruby+%7C+PHP;Creative+Problem+Solver;Visual+Storyteller" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7E3ACE&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Specialist;Django%2FRails%2FLaravel;Python+%7C+Ruby+%7C+PHP;Creative+Problem+Solver;Visual+Storyteller;Always+Learning+🚀" alt="Typing SVG" />
   </p>
   
   <!-- Social Badges -->
   <p align="center">
     <a href="mailto:besuwinner@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://t.me/besu179">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
     <a href="https://www.linkedin.com/in/besufkad-yalew-0673402b4">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/besu179">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 🚀
 
-### 💻 Programming Languages
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,php&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,rails,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,django,rails,laravel&theme=dark" />
 </p>
 
 ### 🎨 Creative Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ae,pr" />
+  <img src="https://skillicons.dev/icons?i=figma,ae,pr&theme=dark" />
 </p>
 
 ### 🧰 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 📈
 
 <div align="center">
   
@@ -80,10 +81,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/besu179/besu179/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+
+---
+
 <div align="center">
   
-  ## "Code clean. Edit sharp. Learn daily."
+  ## ✨ "Code clean. Edit sharp. Learn daily." ✨
   
-  ![Visitors](https://komarev.com/ghpvc/?username=besu179&color=7e3ace&style=flat)
+  ![Visitors](https://komarev.com/ghpvc/?username=besu179&color=7e3ace&style=for-the-badge)
   
 </div>
