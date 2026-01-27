@@ -1,7 +1,7 @@
 # Besufkad Yalew
 **Software Engineering Student | Full-Stack Developer**
 
-Detail-oriented Software Engineering student with a focus on building scalable web applications and solving complex architectural problems. Passionate about clean code, system efficiency, and continuous learning.
+Software Engineering student with a focus on building scalable web applications and solving complex architectural problems. Passionate about clean code, system efficiency, and continuous learning.
 
 ---
 
