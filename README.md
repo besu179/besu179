@@ -26,6 +26,6 @@ Software Engineering student with a focus on building scalable web applications 
 
 * **LinkedIn:** [linkedin.com/in/besufkad-yalew-0673402b4](https://www.linkedin.com/in/besufkad-yalew-0673402b4)
 * **Email:** [besuwinner@gmail.com](mailto:besuwinner@gmail.com)
-* **Telegram:** [@besu179](https://t.me/besu179)
+* **Telegram:** [@besu179](https://t.me/bae179)
 
 > "Code clean. Build scalable. Learn daily."
