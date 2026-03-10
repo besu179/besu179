@@ -15,17 +15,15 @@ Software Engineering student with a focus on building scalable web applications 
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besu179&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css" />
-</p>
+<!-- This uses the Metrics Action to show your stats reliably -->
+![Metrics](https://metrics.lecoq.io)
 
 ---
 
 ### 🔗 Professional Network
 
-* **LinkedIn:** [linkedin.com/in/besufkad-yalew-0673402b4](https://www.linkedin.com/in/besufkad-yalew-0673402b4)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 * **Email:** [besuwinner@gmail.com](mailto:besuwinner@gmail.com)
-* **Telegram:** [@bae179](https://t.me/bae179)
+* **Telegram:** [@bae179](https://t.me)
 
 > "Code clean. Build scalable. Learn daily."
