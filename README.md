@@ -1,28 +1,34 @@
-# Besufkad Yalew
-**Software Engineering Student | Full-Stack Developer**
+# Hi, I'm BESUFKAD YALEW 👋
 
-Software Engineering student with a focus on building scalable web applications and solving complex architectural problems. Passionate about clean code, system efficiency, and continuous learning.
-
----
-
-### 🛠 Technical Stack
-
-* **Languages:** Python, Ruby, PHP, JavaScript (ES6+), Java, HTML5, CSS3
-* **Frameworks:** React, Django, Ruby on Rails, Laravel
-* **Tools & Environment:** Git, GitHub, PostgreSQL, VS Code, Linux
+![Profile Views](https://img.shields.io/badge/PROFILE-Developer-green) ![GitHub followers](https://img.shields.io/github/followers/besu179?label=Follow&style=social)
 
 ---
 
-### 📊 GitHub Analytics
+## 🏆 GitHub Trophies & Stats
 
-![Metrics](https://metrics.lecoq.io/besu179?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=besu179&theme=dark&no-frame=true&margin-w=15)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=tokyonight&locale=en)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=besu179&layout=compact&theme=tokyonight)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=besu179&theme=dark&hide_border=true)
+
+<!-- Contribution graph -->
+![Contribution Graph](https://ghchart.rshah.org/besu179)
 
 ---
 
-### 🔗 Professional Network
+---
 
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-* **Email:** [besuwinner@gmail.com](mailto:besuwinner@gmail.com)
-* **Telegram:** [@bae179](https://t.me)
+## 📫 Connect
 
-> "Code clean. Build scalable. Learn daily."
+- GitHub: https://github.com/besu179
+- Telegram: https://t.me/bae179
+- LinkedIn:(https://www.linkedin.com/in/besufkad-yalew-0673402b4/)
+
+---
