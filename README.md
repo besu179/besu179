@@ -6,9 +6,6 @@
 
 ## 🏆 GitHub Trophies & Stats
 
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=besu179&theme=dark&no-frame=true&margin-w=15)
-
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=tokyonight&locale=en)
 
