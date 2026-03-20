@@ -15,8 +15,7 @@ Software Engineering student with a focus on building scalable web applications 
 
 ### 📊 GitHub Analytics
 
-<!-- This uses the Metrics Action to show your stats reliably -->
-![Metrics](https://metrics.lecoq.io/besu179)
+![Metrics](https://metrics.lecoq.io/besu179?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
 
 ---
 
