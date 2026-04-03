@@ -6,17 +6,8 @@
 
 ## 🏆 GitHub Trophies & Stats
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=besu179&show_icons=true&theme=tokyonight&locale=en)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=besu179&layout=compact&theme=tokyonight)
-
 <!-- Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=besu179&theme=dark&hide_border=true)
-
-<!-- Contribution graph -->
-![Contribution Graph](https://ghchart.rshah.org/besu179)
 
 ---
 
