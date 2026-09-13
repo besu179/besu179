@@ -7,10 +7,10 @@
 
 ## 🧑‍💻 About Me
 
-I am **Besufkad Yalew**, a 3rd-year Software Engineering student and a passionate **Backend Developer**.  
-I am highly interested in **Data Science, Machine Learning, and Artificial Intelligence**, and I enjoy solving complex problems through code.
+I am **Besufkad Yalew**, a 4th-year Software Engineering student and a passionate **Backend Developer**.  
+I am highly interested in **Data Science, Machine Learning, and Artificial Intelligence**.
 
-I am also an **A2SVian**, continuously working on improving my problem-solving and software development skills.
+I am also an **A2SVian**, working on improving my problem-solving and software development skills.
 
 🚀 I am always looking forward to:
 - Learning new technologies  
